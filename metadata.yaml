@@ -1,11 +1,16 @@
 _repo: Adventures-of-the-Teenie-Weenies_56690
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56690-h/images/cover.jpg
 creator:
   author:
     agent_name: Donahey, William
     gutenberg_agent_id: '48982'
     url: http://www.gutenberg.org/2009/agents/48982
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56690#Adventures-of-the-Teenie-Weenies
 gutenberg_issued: '2018-03-06'
 gutenberg_type: Text
 identifiers:
